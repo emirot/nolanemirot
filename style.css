@@ -1,0 +1,21 @@
+/* Styles go here */
+
+body {
+  background-color : #f3f3f3;
+}
+
+.page-header {
+ border-bottom: 3px solid #777;
+}
+
+body .row p {
+  font-size : 1.5em;
+}
+
+.top-buffer { 
+  margin-top:40px; 
+}
+
+.page-header h1 {
+  font-size : 4em;
+}
